@@ -33,26 +33,12 @@ To run the app locally:
 5. Open your browser and go to `http://localhost:3000` to view the application.
 
 
-## Deployment
-
-- The app is deployed at: [Deployment Link](https://dynamic-event-calendar-zeta.vercel.app/)
-- GitHub Repository: [GitHub Link](https://github.com/geeta052/Dynamic-Event-Calendar)
 
 ## Code Highlights
 
 - Built using React functional components and hooks like `useState` and `useEffect`.
 - Implements calendar logic manually without relying on external libraries.
 - Features a modular, clean, and maintainable code structure.
-
-## Screenshots
-
-Below are some screenshots showcasing the app's features:
-
-### Calendar View (Month)
-![image](https://github.com/user-attachments/assets/199cbf65-4a6d-4778-bc5e-9acab41844a6)
-
-### Add/Edit Events
-![image](https://github.com/user-attachments/assets/ea3dd952-5188-4a5d-a9d8-9b44f2acc21e)
 
 
 
